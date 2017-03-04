@@ -4,7 +4,8 @@ title: "Web开发资源列表"
 date: "2017-03-03 17:28"
 ---
 
-# Awesome Web  [Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
+# Awesome Web  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/alphayang/awesome-web)
+
 
 Web开发资源列表
 
